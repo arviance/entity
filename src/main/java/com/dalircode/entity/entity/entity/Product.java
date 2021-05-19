@@ -7,7 +7,7 @@ import javax.persistence.Id;
 
 @Entity
 public class Product {
-    //Id should be unique
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
