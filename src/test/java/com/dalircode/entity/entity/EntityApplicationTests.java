@@ -1,4 +1,4 @@
-package com.dalircode.entity;
+package com.dalircode.entity.entity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

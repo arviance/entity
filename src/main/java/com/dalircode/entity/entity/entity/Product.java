@@ -1,4 +1,4 @@
-package com.dalircode.entity.entity;
+package com.dalircode.entity.entity.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
